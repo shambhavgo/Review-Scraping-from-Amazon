@@ -8,4 +8,19 @@ A amazon scraping tool to extract revies from Amazon.in using Python Requests an
 2. Add Amazon Product URLS to [urls.txt](urls.txt)
 3. Run `python reviews.py`
 4. Use [data.csv](data.csv) for data.
+<hr>
+
+## Data columns in [data.csv](data.csv)
+➼title
+➼content
+➼date	
+➼variant	
+➼images	
+➼verified	
+➼author
+➼rating	
+➼product	
+➼url
+
+
 
