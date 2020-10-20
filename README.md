@@ -1,5 +1,5 @@
 # Reviews-Scraping-from-Amazon
-# Amazon Review Scraper using Selectorlib 
+Amazon Review Scraper using Selectorlib 
 
 A amazon scraping tool to extract revies from Amazon.in using Python Requests and Selectorlib.
 
