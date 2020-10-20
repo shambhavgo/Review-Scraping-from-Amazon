@@ -14,7 +14,7 @@ A amazon scraping tool to extract revies from Amazon.in using Python Requests an
 ➼title<br>
 ➼content<br>
 ➼date	<br>
-➼variant	
+➼variant	<br>
 ➼images	<br>
 ➼verified	<br>
 ➼author<br>
