@@ -11,16 +11,16 @@ A amazon scraping tool to extract revies from Amazon.in using Python Requests an
 <hr>
 
 ## Data columns in [data.csv](data.csv)
-➼title
-➼content
-➼date	
+➼title<br>
+➼content<br>
+➼date	<br>
 ➼variant	
-➼images	
-➼verified	
-➼author
-➼rating	
-➼product	
-➼url
+➼images	<br>
+➼verified	<br>
+➼author<br>
+➼rating	<br>
+➼product	<br>
+➼url<br>
 
 
 
