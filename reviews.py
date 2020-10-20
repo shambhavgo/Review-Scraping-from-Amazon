@@ -58,5 +58,5 @@ with open("urls.txt",'r',encoding='utf-8') as urllist, open('data.csv','w') as o
                     r['images'] = "\n".join(r['images'])
                 r['date'] = dateparser.parse(date_posted).strftime('%d %b %Y')
                 writer.writerow(r)
-            # sleep(5)
+            #sleep(5)
     
